@@ -288,3 +288,1154 @@
 07/28/2022 04:46:24 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
 07/28/2022 04:46:24 PM  * Restarting with stat
 07/28/2022 04:46:25 PM Flask server started.
+07/29/2022 10:10:00 AM Flask server started.
+07/29/2022 10:10:00 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 10:10:00 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK('003R98732,%20'8713783708897' HTTP/1.1" 404 None
+07/29/2022 10:10:18 AM Flask server started.
+07/29/2022 10:10:18 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 10:10:18 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK('003R98732,%20'8713783708897') HTTP/1.1" 404 None
+07/29/2022 10:47:01 AM Flask server started.
+07/29/2022 10:47:01 AM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+07/29/2022 10:47:01 AM  * Restarting with stat
+07/29/2022 10:47:01 AM Flask server started.
+07/29/2022 10:47:07 AM 127.0.0.1 - - [29/Jul/2022 10:47:07] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:47:07 AM 127.0.0.1 - - [29/Jul/2022 10:47:07] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 10:47:34 AM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 10:47:34 AM  * Restarting with stat
+07/29/2022 10:47:34 AM Flask server started.
+07/29/2022 10:47:38 AM 127.0.0.1 - - [29/Jul/2022 10:47:38] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:47:38 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 10:47:39 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=109704132KM7120W HTTP/1.1" 404 104
+07/29/2022 10:47:39 AM 127.0.0.1 - - [29/Jul/2022 10:47:39] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 10:48:41 AM 127.0.0.1 - - [29/Jul/2022 10:48:41] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:48:41 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 10:48:42 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=032L1228 HTTP/1.1" 404 104
+07/29/2022 10:48:42 AM 127.0.0.1 - - [29/Jul/2022 10:48:42] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 10:49:05 AM 127.0.0.1 - - [29/Jul/2022 10:49:05] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:49:05 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 10:49:06 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=110085003 HTTP/1.1" 404 104
+07/29/2022 10:49:06 AM 127.0.0.1 - - [29/Jul/2022 10:49:06] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 10:49:26 AM 127.0.0.1 - - [29/Jul/2022 10:49:26] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:49:26 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 10:49:26 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=1358228 HTTP/1.1" 404 104
+07/29/2022 10:49:26 AM 127.0.0.1 - - [29/Jul/2022 10:49:26] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 10:50:33 AM 127.0.0.1 - - [29/Jul/2022 10:50:33] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:50:34 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 10:50:34 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=100-726 HTTP/1.1" 404 104
+07/29/2022 10:50:34 AM 127.0.0.1 - - [29/Jul/2022 10:50:34] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 10:50:40 AM 127.0.0.1 - - [29/Jul/2022 10:50:40] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:50:40 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 10:50:40 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=100-726 HTTP/1.1" 404 104
+07/29/2022 10:50:40 AM 127.0.0.1 - - [29/Jul/2022 10:50:40] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 10:50:56 AM 127.0.0.1 - - [29/Jul/2022 10:50:56] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:50:57 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 10:50:57 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=110058033 HTTP/1.1" 404 104
+07/29/2022 10:50:57 AM 127.0.0.1 - - [29/Jul/2022 10:50:57] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 10:51:26 AM 127.0.0.1 - - [29/Jul/2022 10:51:26] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:51:26 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 10:51:27 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=1025170 HTTP/1.1" 404 104
+07/29/2022 10:51:27 AM 127.0.0.1 - - [29/Jul/2022 10:51:27] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 10:52:26 AM 127.0.0.1 - - [29/Jul/2022 10:52:26] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 10:52:27 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 10:52:29 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 10:52:29 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 10:52:30 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 None
+07/29/2022 10:52:30 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 10:52:30 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 191
+07/29/2022 10:52:30 AM 127.0.0.1 - - [29/Jul/2022 10:52:30] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 11:12:36 AM 127.0.0.1 - - [29/Jul/2022 11:12:36] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 11:12:36 AM 127.0.0.1 - - [29/Jul/2022 11:12:36] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 11:12:55 AM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 11:12:55 AM  * Restarting with stat
+07/29/2022 11:12:56 AM Flask server started.
+07/29/2022 11:13:09 AM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 11:13:09 AM  * Restarting with stat
+07/29/2022 11:13:09 AM Flask server started.
+07/29/2022 11:15:13 AM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 11:15:13 AM  * Restarting with stat
+07/29/2022 11:15:13 AM Flask server started.
+07/29/2022 11:15:19 AM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 11:15:19 AM  * Restarting with stat
+07/29/2022 11:15:19 AM Flask server started.
+07/29/2022 11:15:30 AM 127.0.0.1 - - [29/Jul/2022 11:15:30] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 11:15:31 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 11:15:31 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=dict_keys(%5B'ZOTR_PRICEANDSTOCK'%5D) HTTP/1.1" 404 104
+07/29/2022 11:15:31 AM 127.0.0.1 - - [29/Jul/2022 11:15:31] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 11:16:31 AM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 11:16:31 AM  * Restarting with stat
+07/29/2022 11:16:32 AM Flask server started.
+07/29/2022 11:16:36 AM 127.0.0.1 - - [29/Jul/2022 11:16:36] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 11:16:37 AM 127.0.0.1 - - [29/Jul/2022 11:16:37] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 11:17:21 AM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 11:17:21 AM  * Restarting with stat
+07/29/2022 11:17:22 AM Flask server started.
+07/29/2022 11:17:38 AM 127.0.0.1 - - [29/Jul/2022 11:17:38] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 11:17:39 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 11:17:40 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 11:17:40 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 11:17:41 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 409 125
+07/29/2022 11:17:41 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 11:17:41 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 409 125
+07/29/2022 11:17:41 AM 127.0.0.1 - - [29/Jul/2022 11:17:41] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 11:18:08 AM 127.0.0.1 - - [29/Jul/2022 11:18:08] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 11:18:08 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 11:18:11 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 11:18:11 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 11:18:11 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 409 125
+07/29/2022 11:18:11 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 11:18:11 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 409 125
+07/29/2022 11:18:11 AM 127.0.0.1 - - [29/Jul/2022 11:18:11] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 11:32:09 AM 127.0.0.1 - - [29/Jul/2022 11:32:09] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 11:32:10 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 11:32:12 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 11:32:12 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 11:32:13 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 191
+07/29/2022 11:32:13 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 11:32:13 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 191
+07/29/2022 11:32:13 AM 127.0.0.1 - - [29/Jul/2022 11:32:13] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 11:33:29 AM 127.0.0.1 - - [29/Jul/2022 11:33:29] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 11:33:29 AM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 11:33:31 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 11:33:31 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 11:33:31 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 409 125
+07/29/2022 11:33:31 AM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 11:33:31 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 409 125
+07/29/2022 11:33:31 AM 127.0.0.1 - - [29/Jul/2022 11:33:31] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 12:21:38 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 12:21:38 PM  * Restarting with stat
+07/29/2022 12:21:38 PM Flask server started.
+07/29/2022 12:21:45 PM 127.0.0.1 - - [29/Jul/2022 12:21:45] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 12:21:46 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 12:21:48 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 12:21:48 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 12:21:48 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 None
+07/29/2022 12:21:48 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 12:21:49 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 191
+07/29/2022 12:21:49 PM 127.0.0.1 - - [29/Jul/2022 12:21:49] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 12:32:37 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 12:32:37 PM  * Restarting with stat
+07/29/2022 12:32:37 PM Flask server started.
+07/29/2022 12:32:37 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 12:32:37 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK('003R99731,%20'8714231590514') HTTP/1.1" 404 None
+07/29/2022 12:32:45 PM Flask server started.
+07/29/2022 12:32:45 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 12:32:45 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK('003R99731,%20'8714231590514') HTTP/1.1" 404 None
+07/29/2022 12:32:58 PM Flask server started.
+07/29/2022 12:32:58 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 12:32:58 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK('8714231590514,%20'003R99731') HTTP/1.1" 404 None
+07/29/2022 12:33:01 PM Flask server started.
+07/29/2022 12:33:01 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 12:33:01 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK('8714231590514,%20'003R99731') HTTP/1.1" 404 None
+07/29/2022 12:33:41 PM Flask server started.
+07/29/2022 12:33:41 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 12:33:42 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+07/29/2022 12:33:42 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+07/29/2022 12:33:42 PM  * Restarting with stat
+07/29/2022 12:33:42 PM Flask server started.
+07/29/2022 12:33:42 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 12:33:42 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 261
+07/29/2022 01:08:27 PM 127.0.0.1 - - [29/Jul/2022 13:08:27] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 01:08:27 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 01:08:29 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 01:08:29 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 01:08:30 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 409 None
+07/29/2022 01:08:30 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 01:08:30 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 409 None
+07/29/2022 01:08:30 PM 127.0.0.1 - - [29/Jul/2022 13:08:30] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 01:08:42 PM Flask server started.
+07/29/2022 01:08:42 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 01:08:42 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 261
+07/29/2022 01:08:42 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+07/29/2022 01:08:42 PM  * Restarting with stat
+07/29/2022 01:08:43 PM Flask server started.
+07/29/2022 01:08:43 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 01:08:43 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 261
+07/29/2022 01:08:53 PM Flask server started.
+07/29/2022 01:08:53 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+07/29/2022 01:08:53 PM  * Restarting with stat
+07/29/2022 01:08:53 PM Flask server started.
+07/29/2022 01:09:02 PM 127.0.0.1 - - [29/Jul/2022 13:09:02] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 01:09:02 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 01:09:04 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 01:09:04 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 01:09:04 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 261
+07/29/2022 01:09:04 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 01:09:04 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 261
+07/29/2022 01:09:04 PM 127.0.0.1 - - [29/Jul/2022 13:09:04] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 02:10:22 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 02:10:22 PM  * Restarting with stat
+07/29/2022 02:10:23 PM Flask server started.
+07/29/2022 02:11:10 PM 127.0.0.1 - - [29/Jul/2022 14:11:10] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 02:11:11 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 02:11:13 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 02:11:13 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:11:14 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+07/29/2022 02:11:14 PM 127.0.0.1 - - [29/Jul/2022 14:11:14] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 02:11:42 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 02:11:42 PM  * Restarting with stat
+07/29/2022 02:11:43 PM Flask server started.
+07/29/2022 02:11:47 PM 127.0.0.1 - - [29/Jul/2022 14:11:47] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 02:11:47 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 02:11:49 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 02:11:49 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:11:49 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+07/29/2022 02:11:49 PM 127.0.0.1 - - [29/Jul/2022 14:11:49] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 02:12:00 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 02:12:00 PM  * Restarting with stat
+07/29/2022 02:12:00 PM Flask server started.
+07/29/2022 02:20:39 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 02:20:39 PM  * Restarting with stat
+07/29/2022 02:20:40 PM Flask server started.
+07/29/2022 02:21:48 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 02:21:48 PM  * Restarting with stat
+07/29/2022 02:21:48 PM Flask server started.
+07/29/2022 02:21:58 PM 127.0.0.1 - - [29/Jul/2022 14:21:58] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 02:21:58 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 02:22:01 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 02:22:01 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:01 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+07/29/2022 02:22:01 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:01 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+07/29/2022 02:22:01 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:02 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 113
+07/29/2022 02:22:02 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:02 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 261
+07/29/2022 02:22:02 PM 127.0.0.1 - - [29/Jul/2022 14:22:02] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 02:22:16 PM 127.0.0.1 - - [29/Jul/2022 14:22:16] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 02:22:16 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 02:22:19 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 02:22:19 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:19 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 261
+07/29/2022 02:22:19 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:19 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 261
+07/29/2022 02:22:19 PM 127.0.0.1 - - [29/Jul/2022 14:22:19] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 02:22:26 PM 127.0.0.1 - - [29/Jul/2022 14:22:26] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 02:22:26 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 02:22:27 PM 127.0.0.1 - - [29/Jul/2022 14:22:27] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 02:22:27 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 02:22:28 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 02:22:28 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:28 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 262
+07/29/2022 02:22:28 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:28 PM https://priority.servium.com:443 "PATCH /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 200 261
+07/29/2022 02:22:28 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:29 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 262
+07/29/2022 02:22:29 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:29 PM https://priority.servium.com:443 "PATCH /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 200 261
+07/29/2022 02:22:29 PM 127.0.0.1 - - [29/Jul/2022 14:22:29] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 02:22:30 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 02:22:30 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:30 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 261
+07/29/2022 02:22:30 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 02:22:30 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 261
+07/29/2022 02:22:30 PM 127.0.0.1 - - [29/Jul/2022 14:22:30] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 02:22:55 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+07/29/2022 02:22:55 PM  * Restarting with stat
+07/29/2022 02:22:55 PM Flask server started.
+07/29/2022 03:22:01 PM 127.0.0.1 - - [29/Jul/2022 15:22:01] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 03:22:01 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 03:22:04 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 03:22:04 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 03:22:04 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+07/29/2022 03:22:04 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 03:22:04 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 264
+07/29/2022 03:22:04 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 03:22:05 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 None
+07/29/2022 03:22:05 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 03:22:05 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 264
+07/29/2022 03:22:05 PM 127.0.0.1 - - [29/Jul/2022 15:22:05] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 03:22:42 PM 127.0.0.1 - - [29/Jul/2022 15:22:42] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 03:22:42 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 03:22:42 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=X947124-003 HTTP/1.1" 404 104
+07/29/2022 03:22:43 PM 127.0.0.1 - - [29/Jul/2022 15:22:43] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+07/29/2022 03:23:17 PM 127.0.0.1 - - [29/Jul/2022 15:23:17] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 03:23:17 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 03:23:19 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 03:23:19 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 03:23:19 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+07/29/2022 03:23:19 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 03:23:19 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+07/29/2022 03:23:19 PM 127.0.0.1 - - [29/Jul/2022 15:23:19] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 04:32:36 PM 127.0.0.1 - - [29/Jul/2022 16:32:36] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 04:32:36 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 04:32:39 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 04:32:39 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:32:39 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 400 121
+07/29/2022 04:32:39 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:32:39 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 400 None
+07/29/2022 04:32:39 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:32:39 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 400 121
+07/29/2022 04:32:39 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:32:39 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 400 121
+07/29/2022 04:32:39 PM 127.0.0.1 - - [29/Jul/2022 16:32:39] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 04:38:54 PM 127.0.0.1 - - [29/Jul/2022 16:38:54] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 04:38:55 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 04:38:57 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 04:38:57 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:38:57 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 400 121
+07/29/2022 04:38:57 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:38:57 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 400 121
+07/29/2022 04:38:57 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:38:57 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 400 121
+07/29/2022 04:38:57 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:38:57 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 400 121
+07/29/2022 04:38:57 PM 127.0.0.1 - - [29/Jul/2022 16:38:57] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 04:45:07 PM 127.0.0.1 - - [29/Jul/2022 16:45:07] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 04:45:07 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 04:45:10 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 04:45:10 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:45:10 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 113
+07/29/2022 04:45:10 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:45:11 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 264
+07/29/2022 04:45:11 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:45:11 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 None
+07/29/2022 04:45:11 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:45:11 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 264
+07/29/2022 04:45:11 PM 127.0.0.1 - - [29/Jul/2022 16:45:11] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+07/29/2022 04:48:25 PM 127.0.0.1 - - [29/Jul/2022 16:48:25] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+07/29/2022 04:48:26 PM Starting new HTTPS connection (1): services.onetrail.net:443
+07/29/2022 04:48:28 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+07/29/2022 04:48:28 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:48:28 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 264
+07/29/2022 04:48:28 PM Starting new HTTPS connection (1): priority.servium.com:443
+07/29/2022 04:48:28 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+07/29/2022 04:48:28 PM 127.0.0.1 - - [29/Jul/2022 16:48:28] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/01/2022 10:16:17 AM Flask server started.
+08/01/2022 10:16:17 AM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/01/2022 10:16:17 AM  * Restarting with stat
+08/01/2022 10:16:18 AM Flask server started.
+08/01/2022 10:17:08 AM 127.0.0.1 - - [01/Aug/2022 10:17:08] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/01/2022 10:17:08 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/01/2022 10:17:09 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=Shipment HTTP/1.1" 404 104
+08/01/2022 10:17:09 AM 127.0.0.1 - - [01/Aug/2022 10:17:09] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/01/2022 10:17:50 AM 127.0.0.1 - - [01/Aug/2022 10:17:50] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/01/2022 10:17:51 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/01/2022 10:17:53 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=733660-B21 HTTP/1.1" 200 4788
+08/01/2022 10:17:53 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:17:54 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/01/2022 10:17:54 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:17:55 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 246
+08/01/2022 10:17:55 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:17:55 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/01/2022 10:17:55 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:17:55 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/01/2022 10:17:55 AM 127.0.0.1 - - [01/Aug/2022 10:17:55] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/01/2022 10:18:49 AM 127.0.0.1 - - [01/Aug/2022 10:18:49] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/01/2022 10:18:49 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/01/2022 10:18:51 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=733660-B21 HTTP/1.1" 200 4788
+08/01/2022 10:18:51 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:18:51 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/01/2022 10:18:51 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:18:51 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 246
+08/01/2022 10:18:51 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:18:52 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/01/2022 10:18:52 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:18:52 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 246
+08/01/2022 10:18:52 AM 127.0.0.1 - - [01/Aug/2022 10:18:52] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/01/2022 10:21:29 AM 127.0.0.1 - - [01/Aug/2022 10:21:29] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/01/2022 10:21:30 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/01/2022 10:21:33 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=733660-B21 HTTP/1.1" 200 4788
+08/01/2022 10:21:33 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:21:33 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/01/2022 10:21:33 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:21:33 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/01/2022 10:21:33 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:21:33 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/01/2022 10:21:33 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:21:34 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/01/2022 10:21:34 AM 127.0.0.1 - - [01/Aug/2022 10:21:34] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/01/2022 10:22:04 AM 127.0.0.1 - - [01/Aug/2022 10:22:04] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/01/2022 10:22:04 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/01/2022 10:22:07 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=733660-B21 HTTP/1.1" 200 4788
+08/01/2022 10:22:07 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:22:07 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/01/2022 10:22:07 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:22:07 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 246
+08/01/2022 10:22:07 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:22:07 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/01/2022 10:22:07 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:22:07 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 246
+08/01/2022 10:22:07 AM 127.0.0.1 - - [01/Aug/2022 10:22:07] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/01/2022 10:26:00 AM 127.0.0.1 - - [01/Aug/2022 10:26:00] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/01/2022 10:26:01 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/01/2022 10:26:01 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=Shipment HTTP/1.1" 404 104
+08/01/2022 10:26:01 AM 127.0.0.1 - - [01/Aug/2022 10:26:01] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/01/2022 10:26:59 AM 127.0.0.1 - - [01/Aug/2022 10:26:59] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/01/2022 10:26:59 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/01/2022 10:27:01 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=733660-B21 HTTP/1.1" 200 4788
+08/01/2022 10:27:01 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:27:02 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/01/2022 10:27:02 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:27:02 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 246
+08/01/2022 10:27:02 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:27:02 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/01/2022 10:27:02 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:27:02 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 246
+08/01/2022 10:27:02 AM 127.0.0.1 - - [01/Aug/2022 10:27:02] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/01/2022 10:29:41 AM 127.0.0.1 - - [01/Aug/2022 10:29:41] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/01/2022 10:29:42 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/01/2022 10:29:44 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=733660-B21 HTTP/1.1" 200 4788
+08/01/2022 10:29:44 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:29:44 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231592259') HTTP/1.1" 404 113
+08/01/2022 10:29:44 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:29:44 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/01/2022 10:29:44 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:29:45 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231590514') HTTP/1.1" 404 113
+08/01/2022 10:29:45 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:29:45 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 246
+08/01/2022 10:29:45 AM 127.0.0.1 - - [01/Aug/2022 10:29:45] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/01/2022 10:33:44 AM 127.0.0.1 - - [01/Aug/2022 10:33:44] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/01/2022 10:33:45 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/01/2022 10:33:48 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=733660-B21 HTTP/1.1" 200 4788
+08/01/2022 10:33:48 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:33:48 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/01/2022 10:33:48 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:33:49 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 246
+08/01/2022 10:33:49 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:33:49 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='733660-B21',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/01/2022 10:33:49 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/01/2022 10:33:49 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/01/2022 10:33:49 AM 127.0.0.1 - - [01/Aug/2022 10:33:49] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/02/2022 11:37:30 AM Flask server started.
+08/02/2022 11:37:30 AM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/02/2022 11:37:30 AM  * Restarting with stat
+08/02/2022 11:37:30 AM Flask server started.
+08/02/2022 11:55:14 AM 127.0.0.1 - - [02/Aug/2022 11:55:14] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/02/2022 11:55:15 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/02/2022 11:55:17 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=27UP850 HTTP/1.1" 200 6788
+08/02/2022 11:55:17 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 11:55:19 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='27UP850',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/02/2022 11:55:19 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 11:55:19 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/02/2022 11:55:19 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 11:55:19 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='27UP850',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/02/2022 11:55:19 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 11:55:19 AM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/02/2022 11:55:19 AM 127.0.0.1 - - [02/Aug/2022 11:55:19] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/02/2022 02:16:01 PM 127.0.0.1 - - [02/Aug/2022 14:16:01] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/02/2022 02:16:02 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/02/2022 02:16:02 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=48R37EA HTTP/1.1" 404 104
+08/02/2022 02:16:02 PM 127.0.0.1 - - [02/Aug/2022 14:16:02] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/02/2022 02:16:03 PM 127.0.0.1 - - [02/Aug/2022 14:16:03] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/02/2022 02:16:03 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/02/2022 02:16:03 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=Shipment HTTP/1.1" 404 104
+08/02/2022 02:16:03 PM 127.0.0.1 - - [02/Aug/2022 14:16:03] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/02/2022 02:19:33 PM 127.0.0.1 - - [02/Aug/2022 14:19:33] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/02/2022 02:19:33 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/02/2022 02:19:36 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=286H8AA HTTP/1.1" 200 5111
+08/02/2022 02:19:36 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 02:19:36 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='286H8AA HTTP/1.1" 404 None
+08/02/2022 02:19:36 PM 127.0.0.1 - - [02/Aug/2022 14:19:36] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/02/2022 03:08:02 PM 127.0.0.1 - - [02/Aug/2022 15:08:02] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/02/2022 03:08:03 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/02/2022 03:08:05 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/02/2022 03:08:05 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 03:08:06 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 245
+08/02/2022 03:08:06 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 03:08:06 PM https://priority.servium.com:443 "PATCH /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 200 None
+08/02/2022 03:08:06 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 03:08:06 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 245
+08/02/2022 03:08:06 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 03:08:07 PM https://priority.servium.com:443 "PATCH /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 200 245
+08/02/2022 03:08:07 PM 127.0.0.1 - - [02/Aug/2022 15:08:07] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/02/2022 03:08:53 PM 127.0.0.1 - - [02/Aug/2022 15:08:53] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/02/2022 03:08:53 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/02/2022 03:08:55 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/02/2022 03:08:55 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 03:08:56 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 245
+08/02/2022 03:08:56 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/02/2022 03:08:56 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 245
+08/02/2022 03:08:56 PM 127.0.0.1 - - [02/Aug/2022 15:08:56] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 02:59:20 PM Flask server started.
+08/03/2022 02:59:20 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 02:59:20 PM  * Restarting with stat
+08/03/2022 02:59:21 PM Flask server started.
+08/03/2022 03:02:07 PM 127.0.0.1 - - [03/Aug/2022 15:02:07] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 03:02:07 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 03:02:10 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 03:02:10 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:02:12 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/03/2022 03:02:12 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:02:13 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 245
+08/03/2022 03:02:13 PM 127.0.0.1 - - [03/Aug/2022 15:02:13] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 03:03:11 PM 127.0.0.1 - - [03/Aug/2022 15:03:11] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 03:03:11 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 03:03:14 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 03:03:14 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:03:14 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/03/2022 03:03:14 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:03:15 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/03/2022 03:03:15 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:03:15 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/03/2022 03:03:15 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:03:15 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/03/2022 03:03:15 PM 127.0.0.1 - - [03/Aug/2022 15:03:15] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 03:06:03 PM 127.0.0.1 - - [03/Aug/2022 15:06:03] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 03:06:04 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 03:06:06 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 03:06:06 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:06:07 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 245
+08/03/2022 03:06:07 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:06:07 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/03/2022 03:06:07 PM 127.0.0.1 - - [03/Aug/2022 15:06:07] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 03:18:14 PM 127.0.0.1 - - [03/Aug/2022 15:18:14] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 03:18:15 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 03:18:18 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 03:18:18 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:18:19 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/03/2022 03:18:19 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:18:20 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 245
+08/03/2022 03:18:20 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:18:20 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/03/2022 03:18:20 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:18:21 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 245
+08/03/2022 03:18:21 PM 127.0.0.1 - - [03/Aug/2022 15:18:21] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 03:21:44 PM 127.0.0.1 - - [03/Aug/2022 15:21:44] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 03:21:44 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 03:21:46 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 03:21:46 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:21:47 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 245
+08/03/2022 03:21:47 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:21:47 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 245
+08/03/2022 03:21:47 PM 127.0.0.1 - - [03/Aug/2022 15:21:47] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 03:27:28 PM 127.0.0.1 - - [03/Aug/2022 15:27:28] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 03:27:29 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 03:27:31 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 03:27:31 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:27:32 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/03/2022 03:27:32 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:27:32 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 268
+08/03/2022 03:27:32 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:27:32 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 245
+08/03/2022 03:27:32 PM 127.0.0.1 - - [03/Aug/2022 15:27:32] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 03:28:28 PM 127.0.0.1 - - [03/Aug/2022 15:28:28] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 03:28:29 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 03:28:31 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 03:28:31 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:28:31 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 113
+08/03/2022 03:28:31 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:28:31 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/03/2022 03:28:31 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:28:31 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/03/2022 03:28:31 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:28:32 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 268
+08/03/2022 03:28:32 PM 127.0.0.1 - - [03/Aug/2022 15:28:32] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 03:50:25 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 03:50:25 PM  * Restarting with stat
+08/03/2022 03:50:26 PM Flask server started.
+08/03/2022 03:51:24 PM 127.0.0.1 - - [03/Aug/2022 15:51:24] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 03:51:25 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 03:51:27 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 03:51:27 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:51:28 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/03/2022 03:51:28 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:51:28 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 None
+08/03/2022 03:51:28 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:51:28 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/03/2022 03:51:28 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 03:51:28 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 408
+08/03/2022 03:51:28 PM 127.0.0.1 - - [03/Aug/2022 15:51:28] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 04:15:16 PM Flask server started.
+08/03/2022 04:15:16 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 04:15:16 PM  * Restarting with stat
+08/03/2022 04:15:16 PM Flask server started.
+08/03/2022 04:15:32 PM 127.0.0.1 - - [03/Aug/2022 16:15:32] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:15:32 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:15:35 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:15:35 PM 127.0.0.1 - - [03/Aug/2022 16:15:35] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:16:08 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:16:08 PM  * Restarting with stat
+08/03/2022 04:16:08 PM Flask server started.
+08/03/2022 04:16:11 PM Flask server started.
+08/03/2022 04:16:11 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 04:16:11 PM  * Restarting with stat
+08/03/2022 04:16:12 PM Flask server started.
+08/03/2022 04:16:17 PM 127.0.0.1 - - [03/Aug/2022 16:16:17] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:16:17 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:16:19 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:16:19 PM 127.0.0.1 - - [03/Aug/2022 16:16:19] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:16:31 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:16:31 PM  * Restarting with stat
+08/03/2022 04:16:31 PM Flask server started.
+08/03/2022 04:16:32 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:16:32 PM  * Restarting with stat
+08/03/2022 04:16:33 PM Flask server started.
+08/03/2022 04:16:37 PM Flask server started.
+08/03/2022 04:16:37 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 04:16:37 PM  * Restarting with stat
+08/03/2022 04:16:37 PM Flask server started.
+08/03/2022 04:16:41 PM 127.0.0.1 - - [03/Aug/2022 16:16:41] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:16:42 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:16:44 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:16:44 PM 127.0.0.1 - - [03/Aug/2022 16:16:44] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:17:05 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:17:06 PM  * Restarting with stat
+08/03/2022 04:17:06 PM Flask server started.
+08/03/2022 04:17:08 PM Flask server started.
+08/03/2022 04:17:08 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 04:17:08 PM  * Restarting with stat
+08/03/2022 04:17:09 PM Flask server started.
+08/03/2022 04:17:13 PM 127.0.0.1 - - [03/Aug/2022 16:17:13] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:17:14 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:17:15 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:17:15 PM 127.0.0.1 - - [03/Aug/2022 16:17:15] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:17:38 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:17:38 PM  * Restarting with stat
+08/03/2022 04:17:38 PM Flask server started.
+08/03/2022 04:17:50 PM Flask server started.
+08/03/2022 04:17:50 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 04:17:50 PM  * Restarting with stat
+08/03/2022 04:17:50 PM Flask server started.
+08/03/2022 04:17:54 PM 127.0.0.1 - - [03/Aug/2022 16:17:54] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:17:55 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:17:57 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:17:57 PM 127.0.0.1 - - [03/Aug/2022 16:17:57] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:19:21 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:19:21 PM  * Restarting with stat
+08/03/2022 04:19:22 PM Flask server started.
+08/03/2022 04:19:26 PM Flask server started.
+08/03/2022 04:19:26 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 04:19:26 PM  * Restarting with stat
+08/03/2022 04:19:27 PM Flask server started.
+08/03/2022 04:19:31 PM 127.0.0.1 - - [03/Aug/2022 16:19:31] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:19:32 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:19:34 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:19:34 PM 127.0.0.1 - - [03/Aug/2022 16:19:34] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:19:45 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:19:45 PM  * Restarting with stat
+08/03/2022 04:19:46 PM  * Restarting with stat
+08/03/2022 04:19:47 PM Flask server started.
+08/03/2022 04:19:50 PM 127.0.0.1 - - [03/Aug/2022 16:19:50] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:19:50 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:19:52 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:19:52 PM 127.0.0.1 - - [03/Aug/2022 16:19:52] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:19:57 PM Flask server started.
+08/03/2022 04:19:57 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 04:19:57 PM  * Restarting with stat
+08/03/2022 04:19:57 PM Flask server started.
+08/03/2022 04:20:01 PM 127.0.0.1 - - [03/Aug/2022 16:20:01] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:20:01 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:20:03 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:20:03 PM 127.0.0.1 - - [03/Aug/2022 16:20:03] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:20:12 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:20:12 PM  * Restarting with stat
+08/03/2022 04:20:13 PM Flask server started.
+08/03/2022 04:20:14 PM Flask server started.
+08/03/2022 04:20:14 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 04:20:14 PM  * Restarting with stat
+08/03/2022 04:20:15 PM Flask server started.
+08/03/2022 04:20:18 PM 127.0.0.1 - - [03/Aug/2022 16:20:18] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:20:18 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:20:20 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:20:20 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:20:21 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 400 121
+08/03/2022 04:20:21 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:20:21 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 386
+08/03/2022 04:20:21 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:20:21 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 400 121
+08/03/2022 04:20:21 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:20:21 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 386
+08/03/2022 04:20:21 PM 127.0.0.1 - - [03/Aug/2022 16:20:21] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 04:21:02 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:21:02 PM  * Restarting with stat
+08/03/2022 04:21:03 PM Flask server started.
+08/03/2022 04:21:06 PM Flask server started.
+08/03/2022 04:21:06 PM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/03/2022 04:21:06 PM  * Restarting with stat
+08/03/2022 04:21:06 PM Flask server started.
+08/03/2022 04:21:11 PM 127.0.0.1 - - [03/Aug/2022 16:21:11] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:21:11 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:21:13 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:21:13 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:21:14 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 400 121
+08/03/2022 04:21:14 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:21:14 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 386
+08/03/2022 04:21:14 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:21:14 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 400 121
+08/03/2022 04:21:14 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:21:14 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 500 386
+08/03/2022 04:21:14 PM 127.0.0.1 - - [03/Aug/2022 16:21:14] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 04:26:57 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:26:57 PM  * Restarting with stat
+08/03/2022 04:26:58 PM Flask server started.
+08/03/2022 04:27:55 PM 127.0.0.1 - - [03/Aug/2022 16:27:55] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:27:56 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:27:58 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:27:58 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:27:59 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 400 121
+08/03/2022 04:27:59 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:28:00 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 400 121
+08/03/2022 04:28:00 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:28:00 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 400 121
+08/03/2022 04:28:00 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:28:00 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 400 121
+08/03/2022 04:28:00 PM 127.0.0.1 - - [03/Aug/2022 16:28:00] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 04:28:27 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:28:29 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:28:29 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:28:30 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/03/2022 04:28:30 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:28:30 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/03/2022 04:28:30 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:28:30 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/03/2022 04:28:30 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:28:30 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 268
+08/03/2022 04:28:30 PM 127.0.0.1 - - [03/Aug/2022 16:28:30] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 04:29:55 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:29:55 PM  * Restarting with stat
+08/03/2022 04:29:55 PM Flask server started.
+08/03/2022 04:30:27 PM 127.0.0.1 - - [03/Aug/2022 16:30:27] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:30:28 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:30:30 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:30:30 PM 127.0.0.1 - - [03/Aug/2022 16:30:30] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:30:51 PM  * Detected change in 'C:\\Users\\kemalyesildagli\\Documents\\Projects\\onetrail-p&a\\app.py', reloading
+08/03/2022 04:30:51 PM  * Restarting with stat
+08/03/2022 04:30:52 PM Flask server started.
+08/03/2022 04:30:59 PM 127.0.0.1 - - [03/Aug/2022 16:30:59] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:31:00 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:31:02 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:31:02 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:31:03 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/03/2022 04:31:03 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:31:03 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/03/2022 04:31:03 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:31:03 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 113
+08/03/2022 04:31:03 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:31:03 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 291
+08/03/2022 04:31:03 PM 127.0.0.1 - - [03/Aug/2022 16:31:03] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 04:32:06 PM 127.0.0.1 - - [03/Aug/2022 16:32:06] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:32:07 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:32:09 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:32:09 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:32:09 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/03/2022 04:32:09 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:32:09 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 291
+08/03/2022 04:32:09 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:32:09 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/03/2022 04:32:09 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:32:10 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 291
+08/03/2022 04:32:10 PM 127.0.0.1 - - [03/Aug/2022 16:32:10] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 04:40:54 PM 127.0.0.1 - - [03/Aug/2022 16:40:54] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:40:55 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:40:58 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/03/2022 04:40:58 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:40:58 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/03/2022 04:40:58 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:40:59 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/03/2022 04:40:59 PM 127.0.0.1 - - [03/Aug/2022 16:40:59] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/03/2022 04:43:26 PM 127.0.0.1 - - [03/Aug/2022 16:43:26] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:43:26 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:43:26 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=Shipment HTTP/1.1" 404 104
+08/03/2022 04:43:26 PM 127.0.0.1 - - [03/Aug/2022 16:43:26] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:47:32 PM 127.0.0.1 - - [03/Aug/2022 16:47:32] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:47:32 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:47:34 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=27UP850 HTTP/1.1" 200 6788
+08/03/2022 04:47:34 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:47:35 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='27UP850',%20GLN='8714231592259') HTTP/1.1" 200 246
+08/03/2022 04:47:35 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:47:35 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='27UP850',%20GLN='8714231590514') HTTP/1.1" 200 246
+08/03/2022 04:47:35 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:47:35 PM https://priority.servium.com:443 "PATCH /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 200 292
+08/03/2022 04:47:35 PM 127.0.0.1 - - [03/Aug/2022 16:47:35] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/03/2022 04:49:21 PM 127.0.0.1 - - [03/Aug/2022 16:49:21] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/03/2022 04:49:21 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/03/2022 04:49:23 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=27UP850 HTTP/1.1" 200 6788
+08/03/2022 04:49:23 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:49:24 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='27UP850',%20GLN='8714231592259') HTTP/1.1" 404 None
+08/03/2022 04:49:24 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:49:24 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 292
+08/03/2022 04:49:24 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:49:24 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='27UP850',%20GLN='8714231590514') HTTP/1.1" 404 None
+08/03/2022 04:49:24 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/03/2022 04:49:25 PM https://priority.servium.com:443 "POST /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 201 None
+08/03/2022 04:49:25 PM 127.0.0.1 - - [03/Aug/2022 16:49:25] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/04/2022 09:13:42 AM Flask server started.
+08/04/2022 09:13:42 AM  * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+08/04/2022 09:13:42 AM  * Restarting with stat
+08/04/2022 09:13:43 AM Flask server started.
+08/04/2022 09:27:08 AM 127.0.0.1 - - [04/Aug/2022 09:27:08] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 09:27:09 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 09:27:12 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 09:27:12 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 09:27:13 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 09:27:13 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 09:27:13 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 09:27:13 AM 127.0.0.1 - - [04/Aug/2022 09:27:13] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 09:47:20 AM 127.0.0.1 - - [04/Aug/2022 09:47:20] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 09:47:20 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 09:47:23 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 09:47:23 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 09:47:24 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 09:47:24 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 09:47:24 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 09:47:24 AM 127.0.0.1 - - [04/Aug/2022 09:47:24] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:15:54 AM 127.0.0.1 - - [04/Aug/2022 10:15:54] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:15:54 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:15:57 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:15:57 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:15:58 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 10:15:58 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:15:58 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:15:58 AM 127.0.0.1 - - [04/Aug/2022 10:15:58] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:23:29 AM 127.0.0.1 - - [04/Aug/2022 10:23:29] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:23:30 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:23:30 AM 127.0.0.1 - - [04/Aug/2022 10:23:30] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:23:31 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:23:32 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:23:32 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:23:32 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:23:32 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:23:33 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:23:33 AM 127.0.0.1 - - [04/Aug/2022 10:23:33] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:23:33 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:23:33 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:23:33 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:23:33 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:23:34 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:23:34 AM 127.0.0.1 - - [04/Aug/2022 10:23:34] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:24:43 AM 127.0.0.1 - - [04/Aug/2022 10:24:43] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:24:44 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:24:44 AM 127.0.0.1 - - [04/Aug/2022 10:24:44] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:24:44 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:24:45 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:24:45 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:24:46 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:24:46 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:24:46 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:24:46 AM 127.0.0.1 - - [04/Aug/2022 10:24:46] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:24:46 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:24:46 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:24:46 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:24:46 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:24:46 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:24:46 AM 127.0.0.1 - - [04/Aug/2022 10:24:46] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:24:56 AM 127.0.0.1 - - [04/Aug/2022 10:24:56] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:24:57 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:24:57 AM 127.0.0.1 - - [04/Aug/2022 10:24:57] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:24:58 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:24:59 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:24:59 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:24:59 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:24:59 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:24:59 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:24:59 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:24:59 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 10:24:59 AM 127.0.0.1 - - [04/Aug/2022 10:24:59] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:24:59 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 10:24:59 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:25:00 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 10:25:00 AM 127.0.0.1 - - [04/Aug/2022 10:25:00] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:25:49 AM 127.0.0.1 - - [04/Aug/2022 10:25:49] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:25:49 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:25:52 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:25:52 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:25:52 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:25:52 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:25:52 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 10:25:52 AM 127.0.0.1 - - [04/Aug/2022 10:25:52] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:37:25 AM 127.0.0.1 - - [04/Aug/2022 10:37:25] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:37:26 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:37:28 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:37:28 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:37:28 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 10:37:28 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:37:28 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:37:28 AM 127.0.0.1 - - [04/Aug/2022 10:37:28] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:38:13 AM 127.0.0.1 - - [04/Aug/2022 10:38:13] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:38:13 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:38:15 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:38:15 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:38:16 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 10:38:16 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:38:16 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 10:38:16 AM 127.0.0.1 - - [04/Aug/2022 10:38:16] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:38:19 AM 127.0.0.1 - - [04/Aug/2022 10:38:19] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:38:20 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:38:22 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:38:22 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:38:22 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 10:38:22 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:38:22 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 10:38:22 AM 127.0.0.1 - - [04/Aug/2022 10:38:22] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:38:34 AM 127.0.0.1 - - [04/Aug/2022 10:38:34] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:38:35 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:38:35 AM 127.0.0.1 - - [04/Aug/2022 10:38:35] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:38:35 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:38:36 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:38:36 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:38:37 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:38:37 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:38:37 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:38:37 AM 127.0.0.1 - - [04/Aug/2022 10:38:37] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:38:38 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:38:38 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:38:38 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:38:38 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:38:38 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 10:38:38 AM 127.0.0.1 - - [04/Aug/2022 10:38:38] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:39:19 AM 127.0.0.1 - - [04/Aug/2022 10:39:19] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:39:19 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:39:21 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:39:21 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:39:21 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 10:39:21 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:39:21 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:39:21 AM 127.0.0.1 - - [04/Aug/2022 10:39:21] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:39:26 AM 127.0.0.1 - - [04/Aug/2022 10:39:26] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:39:27 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:39:29 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:39:29 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:39:29 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 10:39:29 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:39:29 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:39:29 AM 127.0.0.1 - - [04/Aug/2022 10:39:29] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:39:35 AM 127.0.0.1 - - [04/Aug/2022 10:39:35] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:39:36 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:39:38 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:39:38 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:39:38 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:39:38 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:39:38 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:39:38 AM 127.0.0.1 - - [04/Aug/2022 10:39:38] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:41:07 AM 127.0.0.1 - - [04/Aug/2022 10:41:07] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:41:08 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:41:10 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 10:41:10 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:41:10 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 10:41:10 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 10:41:11 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 10:41:11 AM 127.0.0.1 - - [04/Aug/2022 10:41:11] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 10:43:19 AM 127.0.0.1 - - [04/Aug/2022 10:43:19] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:43:20 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:43:20 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=CONSA HTTP/1.1" 404 104
+08/04/2022 10:43:20 AM 127.0.0.1 - - [04/Aug/2022 10:43:20] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/04/2022 10:43:34 AM 127.0.0.1 - - [04/Aug/2022 10:43:34] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 10:43:34 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 10:43:35 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=CONSA HTTP/1.1" 404 104
+08/04/2022 10:43:35 AM 127.0.0.1 - - [04/Aug/2022 10:43:35] "[35m[1mPOST /Onetrail/GetProductData/ HTTP/1.1[0m" 500 -
+08/04/2022 11:02:15 AM 127.0.0.1 - - [04/Aug/2022 11:02:15] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:02:16 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:02:18 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:02:18 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:02:19 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 11:02:19 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:02:20 AM https://priority.servium.com:443 "PATCH /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK HTTP/1.1" 200 None
+08/04/2022 11:02:20 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:02:20 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:02:20 AM 127.0.0.1 - - [04/Aug/2022 11:02:20] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:04:12 AM 127.0.0.1 - - [04/Aug/2022 11:04:12] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:04:13 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:04:15 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:04:15 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:15 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 11:04:15 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:15 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:04:15 AM 127.0.0.1 - - [04/Aug/2022 11:04:15] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:04:20 AM 127.0.0.1 - - [04/Aug/2022 11:04:20] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:04:21 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:04:23 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:04:23 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:23 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 11:04:23 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:23 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:04:23 AM 127.0.0.1 - - [04/Aug/2022 11:04:23] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:04:43 AM 127.0.0.1 - - [04/Aug/2022 11:04:43] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:04:43 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:04:45 AM 127.0.0.1 - - [04/Aug/2022 11:04:45] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:04:46 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:04:46 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:46 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:04:46 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:46 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:04:46 AM 127.0.0.1 - - [04/Aug/2022 11:04:46] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:04:46 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:04:48 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:04:48 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:48 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:04:48 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:48 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:04:48 AM 127.0.0.1 - - [04/Aug/2022 11:04:48] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:04:50 AM 127.0.0.1 - - [04/Aug/2022 11:04:50] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:04:51 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:04:53 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:04:53 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:53 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:04:53 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:04:53 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:04:53 AM 127.0.0.1 - - [04/Aug/2022 11:04:53] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:20:43 AM 127.0.0.1 - - [04/Aug/2022 11:20:43] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:20:43 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:20:45 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:20:45 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:20:46 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:20:46 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:20:46 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:20:46 AM 127.0.0.1 - - [04/Aug/2022 11:20:46] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:20:50 AM 127.0.0.1 - - [04/Aug/2022 11:20:50] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:20:50 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:20:52 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:20:52 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:20:52 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:20:52 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:20:52 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:20:52 AM 127.0.0.1 - - [04/Aug/2022 11:20:52] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:50:00 AM 127.0.0.1 - - [04/Aug/2022 11:50:00] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:50:00 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:50:02 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:50:02 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:03 AM 127.0.0.1 - - [04/Aug/2022 11:50:03] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:50:04 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:50:04 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 11:50:04 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:04 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 11:50:04 AM 127.0.0.1 - - [04/Aug/2022 11:50:04] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:50:06 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:50:06 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:06 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:50:06 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:06 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:50:06 AM 127.0.0.1 - - [04/Aug/2022 11:50:06] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:50:14 AM 127.0.0.1 - - [04/Aug/2022 11:50:14] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:50:14 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:50:16 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:50:16 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:16 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:50:16 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:16 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:50:16 AM 127.0.0.1 - - [04/Aug/2022 11:50:16] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:50:28 AM 127.0.0.1 - - [04/Aug/2022 11:50:28] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:50:29 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:50:30 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:50:30 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:30 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 11:50:30 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:31 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:50:31 AM 127.0.0.1 - - [04/Aug/2022 11:50:31] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:50:49 AM 127.0.0.1 - - [04/Aug/2022 11:50:49] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:50:50 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:50:52 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:50:52 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:52 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:50:52 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:50:52 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:50:52 AM 127.0.0.1 - - [04/Aug/2022 11:50:52] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:51:24 AM 127.0.0.1 - - [04/Aug/2022 11:51:24] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:51:24 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:51:26 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:51:26 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:51:26 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:51:26 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:51:26 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:51:26 AM 127.0.0.1 - - [04/Aug/2022 11:51:26] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:51:41 AM 127.0.0.1 - - [04/Aug/2022 11:51:41] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:51:41 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:51:44 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:51:44 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:51:44 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:51:44 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:51:44 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 11:51:44 AM 127.0.0.1 - - [04/Aug/2022 11:51:44] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:51:52 AM 127.0.0.1 - - [04/Aug/2022 11:51:52] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:51:52 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:51:54 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:51:54 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:51:55 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:51:55 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:51:55 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:51:55 AM 127.0.0.1 - - [04/Aug/2022 11:51:55] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:52:37 AM 127.0.0.1 - - [04/Aug/2022 11:52:37] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:52:37 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:52:39 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:52:39 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:52:39 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 11:52:39 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:52:39 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:52:39 AM 127.0.0.1 - - [04/Aug/2022 11:52:39] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:57:04 AM 127.0.0.1 - - [04/Aug/2022 11:57:04] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:57:05 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:57:07 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:57:07 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:57:08 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 11:57:08 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:57:08 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:57:08 AM 127.0.0.1 - - [04/Aug/2022 11:57:08] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 11:57:20 AM 127.0.0.1 - - [04/Aug/2022 11:57:20] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 11:57:21 AM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 11:57:23 AM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 11:57:23 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:57:24 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 11:57:24 AM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 11:57:24 AM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 11:57:24 AM 127.0.0.1 - - [04/Aug/2022 11:57:24] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 12:04:54 PM 127.0.0.1 - - [04/Aug/2022 12:04:54] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 12:04:54 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 12:04:57 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 12:04:57 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:04:57 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 12:04:57 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:04:57 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 12:04:57 PM 127.0.0.1 - - [04/Aug/2022 12:04:57] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 12:05:07 PM 127.0.0.1 - - [04/Aug/2022 12:05:07] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 12:05:07 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 12:05:10 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 12:05:10 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:05:10 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 12:05:10 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:05:10 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 12:05:10 PM 127.0.0.1 - - [04/Aug/2022 12:05:10] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 12:07:44 PM 127.0.0.1 - - [04/Aug/2022 12:07:44] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 12:07:45 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 12:07:47 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 12:07:47 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:07:47 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 12:07:47 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:07:47 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 12:07:47 PM 127.0.0.1 - - [04/Aug/2022 12:07:47] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 12:09:11 PM 127.0.0.1 - - [04/Aug/2022 12:09:11] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 12:09:11 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 12:09:13 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 12:09:13 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:09:13 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 12:09:13 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:09:14 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 12:09:14 PM 127.0.0.1 - - [04/Aug/2022 12:09:14] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 12:11:03 PM 127.0.0.1 - - [04/Aug/2022 12:11:03] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 12:11:04 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 12:11:06 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 12:11:06 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:11:06 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 12:11:06 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:11:06 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 12:11:06 PM 127.0.0.1 - - [04/Aug/2022 12:11:06] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 12:15:58 PM 127.0.0.1 - - [04/Aug/2022 12:15:58] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 12:15:59 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 12:16:01 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 12:16:01 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:16:01 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 12:16:01 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:16:02 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 12:16:02 PM 127.0.0.1 - - [04/Aug/2022 12:16:02] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 12:22:48 PM 127.0.0.1 - - [04/Aug/2022 12:22:48] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 12:22:49 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 12:22:51 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 12:22:51 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:22:52 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 None
+08/04/2022 12:22:52 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:22:52 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 12:22:52 PM 127.0.0.1 - - [04/Aug/2022 12:22:52] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 12:23:42 PM 127.0.0.1 - - [04/Aug/2022 12:23:42] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 12:23:42 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 12:23:44 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 12:23:44 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:23:44 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 12:23:44 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:23:44 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 None
+08/04/2022 12:23:44 PM 127.0.0.1 - - [04/Aug/2022 12:23:44] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
+08/04/2022 12:24:02 PM 127.0.0.1 - - [04/Aug/2022 12:24:02] "[32mPOST /Onetrail/GetProductData HTTP/1.1[0m" 308 -
+08/04/2022 12:24:03 PM Starting new HTTPS connection (1): services.onetrail.net:443
+08/04/2022 12:24:05 PM https://services.onetrail.net:443 "GET /pde/rest/v5/products/?&SellerVPN=003R99731 HTTP/1.1" 200 4892
+08/04/2022 12:24:05 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:24:05 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231592259') HTTP/1.1" 200 291
+08/04/2022 12:24:05 PM Starting new HTTPS connection (1): priority.servium.com:443
+08/04/2022 12:24:05 PM https://priority.servium.com:443 "GET /odata/Priority/tabula.ini/testrig/ZOTR_PRICEANDSTOCK(PARTNAME='003R99731',%20GLN='8714231590514') HTTP/1.1" 200 291
+08/04/2022 12:24:05 PM 127.0.0.1 - - [04/Aug/2022 12:24:05] "POST /Onetrail/GetProductData/ HTTP/1.1" 200 -
