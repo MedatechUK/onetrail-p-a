@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 import yaml
-import logging, os, requests
+import logging, os, requests, pytz
 from datetime import datetime, timedelta
 
 # Priority example: r = requests.get(f"{API_URL}{COMPANY}/LOGPART('{PARTNAME}')/PARTTEXT_SUBFORM", auth=(PRIORITY_API_USERNAME, PRIORITY_API_PASSWORD))
@@ -35,16 +35,17 @@ def get_product_data():
     PARTNAME = request.get_json()[list(keys)[0]]['PARTNAME']
     r = requests.get(f"https://services.onetrail.net/pde/rest/v5/products/?&SellerVPN={PARTNAME}", auth=(ONETRAIL_USERNAME, ONETRAIL_PASSWORD), headers={'Accept': 'application/json'})
     data = r.json()
+    
     product = data['productType']['product']
     seller_info = product[0]['sellerInfo']
     # print(seller_info)
     
     responses = []
     for item in seller_info:
-        GLN = item['partnerId']
-        price = item['priceInfo']['productPrices'][0]['price']['value']
-        stock = item['stockInfo']['warehouses'][0]['stock']
-        ATPDate = item['stockInfo']['warehouses'][0]['ATPDate']
+        GLN = item['partnerId'] if 'partnerId' in item else ''
+        price = item['priceInfo']['productPrices'][0]['price']['value'] if 'price' in item['priceInfo']['productPrices'][0] else 0
+        stock = item['stockInfo']['warehouses'][0]['stock'] if 'stock' in item['stockInfo']['warehouses'][0] else 0
+        ATPDate = item['stockInfo']['warehouses'][0]['ATPDate'] if 'ATPDate' in item['stockInfo']['warehouses'][0] else '19880101T000000'
         
         
         
@@ -54,7 +55,7 @@ def get_product_data():
             'PRICE': float(price),
             'STOCK': float(stock),
             'ATPDATE': str(datetime.strptime(ATPDate, "%Y%m%dT%H%M%S").strftime('%Y-%m-%dT%H:%M:%SZ')),
-            'LASTUPDATED': str(datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ'))
+            'LASTUPDATED': str(datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'))
         }
         
         # post if doesnt exist, patch if exists
